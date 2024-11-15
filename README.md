@@ -8,5 +8,5 @@ This project is a full-stack application designed to efficiently solve word sear
 
 **Client:** Javascript, VueJS, HTML, CSS
 
-**Server:** PHP, AJAX
+**Server:** Laravel, PHP, AJAX
 
